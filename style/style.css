@@ -51,6 +51,7 @@
   font-size: 16px;
   color:#0D1321;
   margin-bottom: 32px;
+
 }
 .With{
   width: 244px;
@@ -131,11 +132,47 @@ main{
   margin: 80px;
   margin-left: 80px;
  }
- .box-html{
-
- }
  .box-title{
   text-align: center;
+ }
+ 
+ .Css-box,.js-box,.box-html{
+  width: 300px ;
+  height: 200px;
+  border: 2px solid black;
+  border: none;
+  padding: 40px;
+  margin: 40px;
+  border-radius: 7px;
+ 
+  
+   
+ }
+ .Css-box{
+  background-color: #004de85e;
+  box-shadow: 10px 10px 30px rgb(231, 255, 13);
+
+ }
+ .box-html{
+  background-color: #ff4b1e6b;
+  box-shadow: 10px 10px 30px rgb(61, 50, 61);
+ }
+ .js-box{
+  background-color: #ffdd005e;
+  box-shadow: 10px 10px 30px rgb(211, 98, 211);
+ }
+ .box-main{
+   display: flex;
+   justify-content: space-around;
+  
+ }
+.learn{
+  margin-top: 20px;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 16px;
+  color: #000000;
+
  }
  
    
