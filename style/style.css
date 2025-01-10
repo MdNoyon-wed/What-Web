@@ -1,0 +1,137 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+/* header-part */
+.header{
+  width: 1920px;
+  height: 662px;
+  background-color: rgb(236, 236, 236);
+  margin-top: 30px;
+  background-image: url('../assets/Hero-bg.png');
+}
+ 
+.Resume{
+  display: flex;
+  margin-top: 50px;
+  justify-content: center;  
+  justify-content: space-around;
+}
+.web{
+  font-weight: 900px;
+  font-size: 28px;
+  color:#0D1321;
+    
+}
+.but{
+ width: 244px;
+ height: 47px;
+ font-weight:"semibold";
+ font-size: 20px;
+ border-radius: 8px;
+   
+}
+.header,.img{
+  text-align:center ;
+  
+  
+}
+.Group{
+  margin-top: 26px;
+  margin-bottom: 32px;
+}
+.title{
+  font-weight: 900px;
+  font-size: 48px;
+  margin-bottom: 24px;
+  color: #0D1321;
+}
+.pra{
+  font-weight: 500px;
+  font-size: 16px;
+  color:#0D1321;
+  margin-bottom: 32px;
+}
+.With{
+  width: 244px;
+  height: 65px;
+  background-color: #0D1321;
+  color: #fff;
+  padding: 21px 24px;
+  border-radius: 10px;
+  font-weight: bold;
+  font-size: 20px;
+}
+/* main part */
+.main{
+  width: 1190px;
+  height: 1595px;
+  background-color: #ffffff;
+  margin: 0px auto;
+  margin-top: 50px;
+}
+.title-1{
+  text-align: center;
+}
+ 
+.why{
+  padding-top: 80px;
+  font-weight: 900;
+  font-size: 32px;
+  margin-bottom: 24px;
+  color: #0D1321;
+   
+ }
+ .box1,.box3{
+  width: 1000px;
+  height: 350px;
+  border: 5px dashed cyan;
+  box-shadow: 10px 20px 40px black;
+  border: none;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 48px;
+  background-color: #fff;
+  margin: 0 auto;
+ }
+ .box-right{
+  padding: 50px;
+
+
+ }
+ .world{
+  font-weight: bold;
+  font-size: 24px;
+  color: #0D1321;
+  margin-bottom: 16px;
+ }
+ .More{
+  width: 170px;
+  height: 47px;
+  font-weight: 600;
+  font-size: 20px;
+  padding: 12px 20px;
+ }
+ .box2{
+  width:1000px ;
+  height: 300px;
+  border: 8px solid black;
+  box-shadow: 10px 20px 40px fuchsia;
+  border: none;
+  background-color: antiquewhite;
+  margin: 0px auto; 
+  margin-top: 32px;
+  padding:48px ;
+}
+ .box2{
+  display: flex;
+  padding: 48px;
+ }
+ .box3{
+  margin: 80px;
+  margin-left: 80px;
+ }
+ 
+   
+  
+ 
