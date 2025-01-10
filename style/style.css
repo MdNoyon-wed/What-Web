@@ -63,7 +63,7 @@
   font-size: 20px;
 }
 /* main part */
-.main{
+main{
   width: 1190px;
   height: 1595px;
   background-color: #ffffff;
@@ -130,6 +130,12 @@
  .box3{
   margin: 80px;
   margin-left: 80px;
+ }
+ .box-html{
+
+ }
+ .box-title{
+  text-align: center;
  }
  
    
