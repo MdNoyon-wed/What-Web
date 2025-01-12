@@ -20,12 +20,14 @@
 .web{
   font-weight: 900px;
   font-size: 28px;
+  font-family: "Work Sans", serif;
   color:#0D1321;
     
 }
 .but{
  width: 244px;
  height: 47px;
+ font-family: "Work Sans", serif;
  font-weight:"semibold";
  font-size: 20px;
  border-radius: 8px;
@@ -43,6 +45,7 @@
 .title{
   font-weight: 900px;
   font-size: 48px;
+  font-family: "Work Sans", serif;
   margin-bottom: 24px;
   color: #0D1321;
 }
@@ -50,6 +53,7 @@
   font-weight: 500px;
   font-size: 16px;
   color:#0D1321;
+  font-family: "Work Sans", serif;
   margin-bottom: 32px;
 
 }
@@ -79,6 +83,7 @@ main{
   padding-top: 80px;
   font-weight: 900;
   font-size: 32px;
+  font-family: "Work Sans", serif;
   margin-bottom: 24px;
   color: #0D1321;
    
@@ -89,6 +94,7 @@ main{
   border: 5px dashed cyan;
   box-shadow: 10px 20px 40px black;
   border: none;
+  font-family: "Work Sans", serif;
   display: flex;
   justify-content: space-around;
   padding-top: 48px;
@@ -119,6 +125,7 @@ main{
   border: 8px solid black;
   box-shadow: 10px 20px 40px fuchsia;
   border: none;
+  font-family: "Work Sans", serif;
   background-color: antiquewhite;
   margin: 0px auto; 
   margin-top: 32px;
@@ -163,6 +170,7 @@ main{
  }
  .box-main{
    display: flex;
+   font-family: "Work Sans", serif;
    justify-content: space-around;
   
  }
@@ -174,6 +182,34 @@ main{
   color: #000000;
 
  }
+.Next{
+text-align: center;
+font-family: "Work Sans", serif;
+margin-top: 80px;
+}
+.Next1{
+  font-weight: 900px;
+  font-size: 32px;
+  margin-bottom: 24px;
+}
+.Target,.Target-2,.Target-3{
+  width: 1140px;
+  height: 220px;
+ 
+  background-color: #e9e9e9;
+}
+.Target,.Target-2,.Target-3{
+  border: 2px solid black;
+  border-radius: 15px;
+  border: none;
+ margin-bottom: 30px;
+}
+.react{
+  width: 100px;
+  
+  height: 100px;
+
+}
  
    
   
